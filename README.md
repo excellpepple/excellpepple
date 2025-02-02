@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Excell Pepple
 #### I am a Software Engineer x Game Designer
-![I am a Software Engineer x Game Designer](https://github.com/excellpepple/excellpepple/blob/main/FoundryUE5-06-4d494c4dd4c8471278b0.jpg)
+![I am a Software Engineer x Game Designer](https://github.com/excellpepple/excellpepple/blob/main/03-body-1920x1080-09f27ff1d901.webp)
 
  I am a software engineer and aspiring game designer currently studying computer science at Purdue University.
 I am passionate about all things computing including robotics, AI, cloud computing, software applications and game development. 
