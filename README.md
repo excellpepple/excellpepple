@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Excell Pepple
 #### I am a Software Engineer x Game Designer
-![I am a Software Engineer x Game Designer]()
-![Gampeplay footage](https://github.com/excellpepple/excellpepple/blob/main/GIFMaker_me%20(3).gif)
+![I am a Software Engineer x Game Designer](https://github.com/excellpepple/excellpepple/blob/main/FoundryUE5-06-4d494c4dd4c8471278b0.jpg)
+
  I am a software engineer and aspiring game designer currently studying computer science at Purdue University.
 I am passionate about all things computing including robotics, AI, cloud computing, software applications and game development. 
 I am always on the look out for new and exciting ways i can challenge myself to improve my skills, so feel free to reach out to me if there is anything new or exciting you would like to talk about
 
 Skills: Programming / Unreal 5 / AWS / Unity /Project Management  
-
+![Gampeplay footage](https://github.com/excellpepple/excellpepple/blob/main/GIFMaker_me%20(3).gif)
 # 💫 About Me:
 🔭 I’m currently working on Tales Of The Hollow<br>🌱 I’m currently learning Unreal 5<br>💬 Ask me about Game Design, Software Dev, and Robotics<br>😄 Pronouns: He/Him
 
