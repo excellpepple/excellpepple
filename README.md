@@ -9,7 +9,7 @@ I am always on the look out for new and exciting ways i can challenge myself to 
 Skills: Programming / Unreal 5 / AWS / Unity /Project Management  
 ![Gampeplay footage](https://github.com/excellpepple/excellpepple/blob/main/GIFMaker_me%20(3).gif) ![Gameplay footage](https://github.com/excellpepple/excellpepple/blob/main/GIFMaker_me%20(2).gif)
 # 💫 About Me:
-🔭 I’m currently working on Tales Of The Hollow<br>🌱 I’m currently learning Unreal 5<br>💬 Ask me about Game Design, Software Dev, and Robotics<br>😄 Pronouns: He/Him
+🔭 I’m currently working on Convergence Point<br>🌱 I’m currently learning Unreal Gameplay Ability System<br>💬 Ask me about Game Design, Software Dev, and Robotics<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
